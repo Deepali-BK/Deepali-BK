@@ -15,6 +15,7 @@ I've built classifiers, information extraction pipelines, and multilingual NLP s
 - 🔬 Graduate Research Assistant @ NYU Rory Meyers College of Nursing
 - 🏆 Violet Internship & Research Award 2025
 - 🌐 Women in Data Science Ambassador 2026
+- 📄 Published Researcher — International Journal of Engineering Research & Technology (IJERT)
 
 ---
 
@@ -40,7 +41,7 @@ I've built classifiers, information extraction pipelines, and multilingual NLP s
 
 ## 🚀 Featured Projects
 
-### 🔍 [Muck Rack — HTML Quality Detection Pipeline]([https://github.com/Deepali-BK](https://github.com/Deepali-BK/Article-Ingestion-Pipeline-for-Muck-Rack)) *(Capstone)*
+### 🔍 [Muck Rack — HTML Quality Detection Pipeline](https://github.com/Deepali-BK/Article-Ingestion-Pipeline-for-Muck-Rack) *(Capstone)*
 Production-grade ML pipeline combining **BeautifulSoup + XGBoost** with rule-based heuristics for HTML quality detection.
 - Achieved **0.98 precision / 0.920 F1** score
 - Built a **GPT-4.1-mini few-shot labeling pipeline** to expand an imbalanced seed dataset
@@ -48,20 +49,21 @@ Production-grade ML pipeline combining **BeautifulSoup + XGBoost** with rule-bas
 
 `Python` `XGBoost` `BeautifulSoup` `GPT-4` `Few-shot Learning` `ML Pipelines`
 
+---
 
-
-### 🧠 [Emotion Learning Evaluation for LLMs]([https://github.com/Deepali-BK](https://github.com/Deepali-BK/NLU-project))
+### 🧠 [Emotion Learning Evaluation for LLMs](https://github.com/Deepali-BK/NLU-project)
 Benchmarked emotional intelligence capabilities of **Gemma, Qwen, and Llama** using zero-shot and few-shot prompt engineering.
 - Demonstrated above-chance performance across all three models
 - Leveraged **LangChain** and **HuggingFace** for evaluation orchestration
 
 `LangChain` `HuggingFace` `Prompt Engineering` `Zero-shot` `Few-shot` `LLM Evaluation`
 
+---
 
-
-### 🏥 [Interactive Health Bot]([https://github.com/your-repo-link](https://github.com/Deepali-BK/Voice-Based-Disease-Prediction-using-NLP-Random-Forest-on-Raspberry-Pi))
-- Voice-based disease prediction using NLP & Random Forest on Raspberry Pi — **95.02% accuracy**.
-- Funded by IEDC (Innovation and Entrepreneurship Development Centres from Indian Govt. · ₹37,000) 
+### 🏥 [Interactive Health Bot](https://github.com/Deepali-BK/Voice-Based-Disease-Prediction-using-NLP-Random-Forest-on-Raspberry-Pi)
+Voice-based disease prediction system using NLP & Random Forest deployed on Raspberry Pi — achieving **95.02% accuracy**.
+- Designed an end-to-end pipeline: Speech-to-Text → NLP symptom extraction → Random Forest classification → TTS feedback
+- Received **₹37,000 funding** by Innovative and Entrepreneurship Development Centres (IEDC), Indian Govt.
 - 📄 [Published in IJERT](https://www.ijert.org/research/symptoms-extraction-from-a-voice-input-using-natural-language-processing-IJERTV9IS040645.pdf)
 
 `Python` `NLTK` `Scikit-learn` `Speech Recognition` `Raspberry Pi`
@@ -97,10 +99,11 @@ Benchmarked emotional intelligence capabilities of **Gemma, Qwen, and Llama** us
 
 ---
 
-## 🏅 Awards
+## 🏅 Awards & Recognition
 
 - 🥇 **Violet Internship & Research Award 2025** — Competitive funding for excellence in research and internship performance
 - 🌟 **Women in Data Science Ambassador 2026** — Selected to represent and promote WiDS initiatives
+- 💰 **IEDC Government Grant — ₹37,000** — Funded by Innovative and Entrepreneurship Development Centres (Indian Govt.) for the Interactive Health Bot project
 
 ---
 
