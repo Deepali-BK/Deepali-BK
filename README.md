@@ -60,8 +60,9 @@ Benchmarked emotional intelligence capabilities of **Gemma, Qwen, and Llama** us
 
 
 ### 🏥 [Interactive Health Bot]([https://github.com/your-repo-link](https://github.com/Deepali-BK/Voice-Based-Disease-Prediction-using-NLP-Random-Forest-on-Raspberry-Pi))
-Voice-based disease prediction using NLP & Random Forest on Raspberry Pi — **95.02% accuracy**.
-Funded by IEDC (Indian Govt. · ₹37,000) · 📄 [Published in IJERT](https://www.ijert.org/research/symptoms-extraction-from-a-voice-input-using-natural-language-processing-IJERTV9IS040645.pdf)
+- Voice-based disease prediction using NLP & Random Forest on Raspberry Pi — **95.02% accuracy**.
+- Funded by IEDC (Innovation and Entrepreneurship Development Centres from Indian Govt. · ₹37,000) 
+- 📄 [Published in IJERT](https://www.ijert.org/research/symptoms-extraction-from-a-voice-input-using-natural-language-processing-IJERTV9IS040645.pdf)
 
 `Python` `NLTK` `Scikit-learn` `Speech Recognition` `Raspberry Pi`
 
