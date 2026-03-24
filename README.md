@@ -48,7 +48,7 @@ Production-grade ML pipeline combining **BeautifulSoup + XGBoost** with rule-bas
 
 `Python` `XGBoost` `BeautifulSoup` `GPT-4` `Few-shot Learning` `ML Pipelines`
 
----
+
 
 ### 🧠 [Emotion Learning Evaluation for LLMs]([https://github.com/Deepali-BK](https://github.com/Deepali-BK/NLU-project))
 Benchmarked emotional intelligence capabilities of **Gemma, Qwen, and Llama** using zero-shot and few-shot prompt engineering.
@@ -57,7 +57,7 @@ Benchmarked emotional intelligence capabilities of **Gemma, Qwen, and Llama** us
 
 `LangChain` `HuggingFace` `Prompt Engineering` `Zero-shot` `Few-shot` `LLM Evaluation`
 
----
+
 
 ### 🏥 [Interactive Health Bot]([https://github.com/your-repo-link](https://github.com/Deepali-BK/Voice-Based-Disease-Prediction-using-NLP-Random-Forest-on-Raspberry-Pi))
 Voice-based disease prediction using NLP & Random Forest on Raspberry Pi — **95.02% accuracy**.
