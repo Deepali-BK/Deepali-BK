@@ -97,13 +97,6 @@ Voice-based disease prediction system using NLP & Random Forest deployed on Rasp
 
 **Relevant coursework:** Deep Learning · Machine Learning · Natural Language Understanding · Reinforcement Learning · Big Data · AI Applications in Business (NYU Stern)
 
----
-
-## 🏅 Awards & Recognition
-
-- 🥇 **Violet Internship & Research Award 2025** — Competitive funding for excellence in research and internship performance
-- 🌟 **Women in Data Science Ambassador 2026** — Selected to represent and promote WiDS initiatives
-- 💰 **IEDC Government Grant — ₹37,000** — Funded by Innovative and Entrepreneurship Development Centres (Indian Govt.) for the Interactive Health Bot project
 
 ---
 
