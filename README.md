@@ -46,17 +46,6 @@ I've built classifiers, information extraction pipelines, and multilingual NLP s
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔍 [Muck Rack — HTML Quality Detection Pipeline](https://github.com/Deepali-BK/Article-Ingestion-Pipeline-for-Muck-Rack) *(Capstone)*
-Production-grade ML pipeline combining **BeautifulSoup + XGBoost** with rule-based heuristics for HTML quality detection for PR firm Muck Rack.
-- Achieved **0.98 precision / 0.920 F1** score
-- Built a **GPT-4.1-mini few-shot labeling pipeline** to expand an imbalanced seed dataset
-- Eliminated manual QA bottlenecks entirely
-
-`Python` `XGBoost` `BeautifulSoup` `GPT-4` `Few-shot Learning` `ML Pipelines`
-
----
 
 ### 🏆 [TenantShield — AI Building Inspection & Complaint Platform](https://github.com/Deepali-BK/TenantShield.git) *(GDG NYC × NYU Tandon "Build With AI" Hackathon — 3rd Place 🥉)*
 Multi-agent AI platform helping tenants document housing violations and auto-generate formal NYC housing complaints — built in one day at NYC Open Data Week.
@@ -82,6 +71,19 @@ Mario-style browser game that turns the standard 36-session cardiac rehabilitati
 `Gemini API` `Next.js` `React` `Tailwind CSS` `Framer Motion` `Vercel` `Healthcare AI`
 
 ---
+
+## 🚀 Featured Projects
+
+### 🔍 [Muck Rack — HTML Quality Detection Pipeline](https://github.com/Deepali-BK/Article-Ingestion-Pipeline-for-Muck-Rack) *(Capstone)*
+Production-grade ML pipeline combining **BeautifulSoup + XGBoost** with rule-based heuristics for HTML quality detection for PR firm Muck Rack.
+- Achieved **0.98 precision / 0.920 F1** score
+- Built a **GPT-4.1-mini few-shot labeling pipeline** to expand an imbalanced seed dataset
+- Eliminated manual QA bottlenecks entirely
+
+`Python` `XGBoost` `BeautifulSoup` `GPT-4` `Few-shot Learning` `ML Pipelines`
+
+---
+
 
 ### 🧠 [Emotion Learning Evaluation for LLMs](https://github.com/Deepali-BK/NLU-project)
 Benchmarked emotional intelligence capabilities of **Gemma, Qwen, and Llama** using zero-shot and few-shot prompt engineering.
