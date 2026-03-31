@@ -58,7 +58,7 @@ Multi-agent AI platform helping tenants document housing violations and auto-gen
 
 `Gemini Live API` `Vertex AI` `Firebase` `Google Cloud` `Kotlin` `Jetpack Compose` `CameraX` `Multi-agent AI` `A2A`
 
----
+
 
 ### 🎮 [heart-maxxxxing — Cardiac Rehab Gamification](https://devpost.com/software/heart-maxxxxing) *(Pulse Foundry AI Healthcare Hackathon 2026)*
 Mario-style browser game that turns the standard 36-session cardiac rehabilitation program into an interactive world-map adventure — making recovery feel like play, not a clinical chore.
@@ -70,7 +70,7 @@ Mario-style browser game that turns the standard 36-session cardiac rehabilitati
 
 `Gemini API` `Next.js` `React` `Tailwind CSS` `Framer Motion` `Vercel` `Healthcare AI`
 
----
+
 
 
 ### 🔍 [Muck Rack — HTML Quality Detection Pipeline](https://github.com/Deepali-BK/Article-Ingestion-Pipeline-for-Muck-Rack) *(Capstone)*
@@ -81,7 +81,7 @@ Production-grade ML pipeline combining **BeautifulSoup + XGBoost** with rule-bas
 
 `Python` `XGBoost` `BeautifulSoup` `GPT-4` `Few-shot Learning` `ML Pipelines`
 
----
+
 
 
 ### 🧠 [Emotion Learning Evaluation for LLMs](https://github.com/Deepali-BK/NLU-project)
@@ -91,7 +91,7 @@ Benchmarked emotional intelligence capabilities of **Gemma, Qwen, and Llama** us
 
 `LangChain` `HuggingFace` `Prompt Engineering` `Zero-shot` `Few-shot` `LLM Evaluation`
 
----
+
 
 ### 🏥 [Interactive Health Bot](https://github.com/Deepali-BK/Voice-Based-Disease-Prediction-using-NLP-Random-Forest-on-Raspberry-Pi)
 Voice-based disease prediction system using NLP & Random Forest deployed on Raspberry Pi — achieving **95.02% accuracy**.
