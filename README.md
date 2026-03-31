@@ -1,7 +1,4 @@
 # Hi, I'm Deepali 👋
-
-**Data Scientist | NLP & LLM Engineer | NYU M.S. Data Science '26**
-
 📍 New York, NY &nbsp;·&nbsp; 📧 db5144@nyu.edu &nbsp;·&nbsp; 💼 [linkedin.com/in/deepali-bk](https://linkedin.com/in/deepali-bk) &nbsp;·&nbsp; 🌐 [Portfolio](https://www.datascienceportfol.io/deepalibalakrishnate)
 
 ---
