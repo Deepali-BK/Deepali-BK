@@ -45,7 +45,7 @@ I've built classifiers, information extraction pipelines, and multilingual NLP s
 `Statistical Modeling` `Bayesian Methods` `A/B Testing` `Hypothesis Testing`
 
 ---
-
+## 🚀 Featured Projects
 
 ### 🏆 [TenantShield — AI Building Inspection & Complaint Platform](https://github.com/Deepali-BK/TenantShield.git) *(GDG NYC × NYU Tandon "Build With AI" Hackathon — 3rd Place 🥉)*
 Multi-agent AI platform helping tenants document housing violations and auto-generate formal NYC housing complaints — built in one day at NYC Open Data Week.
@@ -72,7 +72,6 @@ Mario-style browser game that turns the standard 36-session cardiac rehabilitati
 
 ---
 
-## 🚀 Featured Projects
 
 ### 🔍 [Muck Rack — HTML Quality Detection Pipeline](https://github.com/Deepali-BK/Article-Ingestion-Pipeline-for-Muck-Rack) *(Capstone)*
 Production-grade ML pipeline combining **BeautifulSoup + XGBoost** with rule-based heuristics for HTML quality detection for PR firm Muck Rack.
