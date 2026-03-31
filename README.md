@@ -8,11 +8,10 @@
 
 ## About Me
 
-I'm a Data Science graduate student at **New York University** (GPA: 3.6) with a background in software engineering and machine learning. My work sits at the intersection of **NLP, LLMs, and production ML systems** — from processing millions of unstructured documents to evaluating emotional intelligence in large language models.
-
-I've built classifiers, information extraction pipelines, and multilingual NLP systems across healthcare, enterprise, and research domains. I care about models that work in the real world, not just on benchmarks.
+I'm a Data Science grad student at NYU who builds AI systems that actually work — not just on benchmarks, but in the real world. From placing at hackathons with multimodal Gemini agents to shipping production NLP pipelines that process millions of documents, I care about the full journey from idea to deployed system. My work spans NLP, LLMs, healthcare AI, and multi-agent architectures across research, enterprise, and hackathon stages.
 
 - 🔬 Graduate Research Assistant @ NYU Rory Meyers College of Nursing
+- 🏆 3rd Place — GDG NYC × NYU Tandon "Build With AI" Hackathon 2026 (TenantShield)
 - 🏆 Violet Internship & Research Award 2025
 - 🌐 Women in Data Science Ambassador 2026
 - 📄 Published Researcher — International Journal of Engineering Research & Technology (IJERT)
