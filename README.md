@@ -58,7 +58,7 @@ Production-grade ML pipeline combining **BeautifulSoup + XGBoost** with rule-bas
 
 ---
 
-### 🏆 [TenantShield — AI Building Inspection & Complaint Platform](https://github.com/harrisonahn1129/TenantShield) *(GDG NYC × NYU Tandon "Build With AI" Hackathon — 3rd Place 🥉)*
+### 🏆 [TenantShield — AI Building Inspection & Complaint Platform](https://github.com/Deepali-BK/TenantShield.git) *(GDG NYC × NYU Tandon "Build With AI" Hackathon — 3rd Place 🥉)*
 Multi-agent AI platform helping tenants document housing violations and auto-generate formal NYC housing complaints — built in one day at NYC Open Data Week.
 - Designed a **3-agent A2A pipeline** (Interacting → Inspection → Filing) coordinated by a central state machine
 - **Interacting Agent** uses **Gemini Live API** (real-time voice over WebSocket) for conversational tenant intake
