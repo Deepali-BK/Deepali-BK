@@ -49,7 +49,7 @@ I've built classifiers, information extraction pipelines, and multilingual NLP s
 ## 🚀 Featured Projects
 
 ### 🔍 [Muck Rack — HTML Quality Detection Pipeline](https://github.com/Deepali-BK/Article-Ingestion-Pipeline-for-Muck-Rack) *(Capstone)*
-Production-grade ML pipeline combining **BeautifulSoup + XGBoost** with rule-based heuristics for HTML quality detection.
+Production-grade ML pipeline combining **BeautifulSoup + XGBoost** with rule-based heuristics for HTML quality detection for PR firm Muck Rack.
 - Achieved **0.98 precision / 0.920 F1** score
 - Built a **GPT-4.1-mini few-shot labeling pipeline** to expand an imbalanced seed dataset
 - Eliminated manual QA bottlenecks entirely
