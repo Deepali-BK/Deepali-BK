@@ -22,14 +22,21 @@ I've built classifiers, information extraction pipelines, and multilingual NLP s
 ## 🛠 Tech Stack
 
 **Languages & Tools**
-`Python` `R` `SQL` `C++` `Git`
+`Python` `R` `SQL` `C++` `Kotlin` `Git`
 
 **Machine Learning & Deep Learning**
 `Scikit-learn` `PyTorch` `TensorFlow` `XGBoost` `Flair` `FastText` `Computer Vision`
 
 **NLP & Generative AI**
 `HuggingFace Transformers` `LangChain` `SpaCy` `BERT` `RoBERTa` `GPT-4` `RAG Systems`
+`Gemini API` `Gemini Live API` `Multi-agent AI (A2A)` `Vertex AI`
 `Sentiment Analysis` `Topic Modeling` `Named Entity Recognition` `Few-shot Prompting`
+
+**Cloud & Backend**
+`Google Cloud` `Firebase (Auth, Firestore, Storage)` `Vertex AI` `Vercel`
+
+**Frontend & Mobile**
+`Next.js` `React` `Tailwind CSS` `Framer Motion` `Jetpack Compose` `CameraX` `Android (Kotlin)`
 
 **Data & Visualization**
 `Pandas` `NumPy` `Matplotlib` `Seaborn` `Tableau` `Spark` `Hadoop (HDFS)`
@@ -51,6 +58,31 @@ Production-grade ML pipeline combining **BeautifulSoup + XGBoost** with rule-bas
 
 ---
 
+### 🏆 [TenantShield — AI Building Inspection & Complaint Platform](https://github.com/harrisonahn1129/TenantShield) *(GDG NYC × NYU Tandon "Build With AI" Hackathon — 3rd Place 🥉)*
+Multi-agent AI platform helping tenants document housing violations and auto-generate formal NYC housing complaints — built in one day at NYC Open Data Week.
+- Designed a **3-agent A2A pipeline** (Interacting → Inspection → Filing) coordinated by a central state machine
+- **Interacting Agent** uses **Gemini Live API** (real-time voice over WebSocket) for conversational tenant intake
+- **Inspection Agent** performs **multimodal image analysis** to classify violations per NYC Housing Maintenance Code (Class A / B / C)
+- **Filing Agent** generates structured, legally-formatted complaint documents from inspection results
+- Full-stack: Android mobile app (**Kotlin, Jetpack Compose, CameraX**) + web application, backed by **Firebase** (Auth, Firestore, Storage)
+- 🤝 Team project with 3 NYU collaborators — judged by engineers from Meta, Bloomberg, Instagram & Google
+
+`Gemini Live API` `Vertex AI` `Firebase` `Google Cloud` `Kotlin` `Jetpack Compose` `CameraX` `Multi-agent AI` `A2A`
+
+---
+
+### 🎮 [heart-maxxxxing — Cardiac Rehab Gamification](https://devpost.com/software/heart-maxxxxing) *(Pulse Foundry AI Healthcare Hackathon 2026)*
+Mario-style browser game that turns the standard 36-session cardiac rehabilitation program into an interactive world-map adventure — making recovery feel like play, not a clinical chore.
+- Reframed 36 rehab sessions as "Levels" on a platformer world map with Power-Ups, milestones, and safety pause prompts for over-exertion
+- Integrated **Gemini API** as an in-game AI guide providing personalized, encouraging tips at each stage of recovery
+- Built accessible, high-contrast pixel-art UI with **Framer Motion** animations targeting patients of all ages
+- Deployed on **Vercel** with a **Next.js + React** frontend
+- 🤝 Team project with 3 collaborators
+
+`Gemini API` `Next.js` `React` `Tailwind CSS` `Framer Motion` `Vercel` `Healthcare AI`
+
+---
+
 ### 🧠 [Emotion Learning Evaluation for LLMs](https://github.com/Deepali-BK/NLU-project)
 Benchmarked emotional intelligence capabilities of **Gemma, Qwen, and Llama** using zero-shot and few-shot prompt engineering.
 - Demonstrated above-chance performance across all three models
@@ -67,18 +99,6 @@ Voice-based disease prediction system using NLP & Random Forest deployed on Rasp
 - 📄 [Published in IJERT](https://www.ijert.org/research/symptoms-extraction-from-a-voice-input-using-natural-language-processing-IJERTV9IS040645.pdf)
 
 `Python` `NLTK` `Scikit-learn` `Speech Recognition` `Raspberry Pi`
-
----
-### 🏆 [TenantShield — AI Building Inspection & Complaint Platform](https://github.com/harrisonahn1129/TenantShield) *(GDG NYC × NYU Tandon "Build With AI" Hackathon — 3rd Place 🥉)*
-Multi-agent AI platform helping tenants document housing violations and auto-generate formal NYC housing complaints — built in one day at NYC Open Data Week.
-- Designed a **3-agent A2A pipeline** (Interacting → Inspection → Filing) coordinated by a central state machine
-- **Interacting Agent** uses **Gemini Live API** (real-time voice over WebSocket) for conversational tenant intake
-- **Inspection Agent** performs **multimodal image analysis** to classify violations per NYC Housing Maintenance Code (Class A / B / C)
-- **Filing Agent** generates structured, legally-formatted complaint documents from inspection results
-- Full-stack: Android mobile app (**Kotlin, Jetpack Compose, CameraX**) + web application, backed by **Firebase** (Auth, Firestore, Storage)
-- 🤝 Team project with 3 NYU collaborators — judged by engineers from Meta, Bloomberg, Instagram & Google
-
-`Gemini Live API` `Vertex AI` `Firebase` `Google Cloud` `Kotlin` `Jetpack Compose` `CameraX` `Multi-agent AI` `A2A`
 
 ---
 
@@ -108,7 +128,6 @@ Multi-agent AI platform helping tenants document housing violations and auto-gen
 | B.E. Electronics & Communication | B.N.M Institute of Technology | 2016 – 2020 |
 
 **Relevant coursework:** Deep Learning · Machine Learning · Natural Language Understanding · Reinforcement Learning · Big Data · AI Applications in Business (NYU Stern)
-
 
 ---
 
