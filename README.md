@@ -69,6 +69,18 @@ Voice-based disease prediction system using NLP & Random Forest deployed on Rasp
 `Python` `NLTK` `Scikit-learn` `Speech Recognition` `Raspberry Pi`
 
 ---
+### 🏆 [TenantShield — AI Building Inspection & Complaint Platform](https://github.com/harrisonahn1129/TenantShield) *(GDG NYC × NYU Tandon "Build With AI" Hackathon — 3rd Place 🥉)*
+Multi-agent AI platform helping tenants document housing violations and auto-generate formal NYC housing complaints — built in one day at NYC Open Data Week.
+- Designed a **3-agent A2A pipeline** (Interacting → Inspection → Filing) coordinated by a central state machine
+- **Interacting Agent** uses **Gemini Live API** (real-time voice over WebSocket) for conversational tenant intake
+- **Inspection Agent** performs **multimodal image analysis** to classify violations per NYC Housing Maintenance Code (Class A / B / C)
+- **Filing Agent** generates structured, legally-formatted complaint documents from inspection results
+- Full-stack: Android mobile app (**Kotlin, Jetpack Compose, CameraX**) + web application, backed by **Firebase** (Auth, Firestore, Storage)
+- 🤝 Team project with 3 NYU collaborators — judged by engineers from Meta, Bloomberg, Instagram & Google
+
+`Gemini Live API` `Vertex AI` `Firebase` `Google Cloud` `Kotlin` `Jetpack Compose` `CameraX` `Multi-agent AI` `A2A`
+
+---
 
 ## 💼 Experience
 
