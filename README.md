@@ -9,7 +9,7 @@ I'm a Data Science grad student at NYU who builds AI systems that actually work 
 
 - 🔬 Graduate Research Assistant @ NYU Rory Meyers College of Nursing
 - 🏆 3rd Place — GDG NYC × NYU Tandon "Build With AI" Hackathon 2026 (TenantShield)
-- 🏆 Violet Internship & Research Award 2025
+- 🏆 Violet Internship & Research Award 2025 & 2026
 - 🌐 Women in Data Science Ambassador 2026
 - 📄 Published Researcher — International Journal of Engineering Research & Technology (IJERT)
 
