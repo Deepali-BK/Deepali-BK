@@ -18,24 +18,24 @@ I'm a Data Science grad student at NYU who builds AI systems that actually work 
 ## 🛠 Tech Stack
 
 **Languages & Tools**
-`Python` `R` `SQL` `C++` `Kotlin` `Git`
+`Python` `R` `SQL` `C++` `Kotlin` `TypeScript` `Git`
 
 **Machine Learning & Deep Learning**
-`Scikit-learn` `PyTorch` `TensorFlow` `XGBoost` `Flair` `FastText` `Computer Vision`
+`Scikit-learn` `PyTorch` `TensorFlow` `XGBoost` `Flair` `FastText` `LoRA` `Reinforcement Learning` `Computer Vision`
 
 **NLP & Generative AI**
-`HuggingFace Transformers` `LangChain` `SpaCy` `BERT` `RoBERTa` `GPT-4` `RAG Systems`
-`Gemini API` `Gemini Live API` `Multi-agent AI (A2A)` `Vertex AI`
-`Sentiment Analysis` `Topic Modeling` `Named Entity Recognition` `Few-shot Prompting`
+`HuggingFace Transformers` `LangChain` `LangGraph` `SpaCy` `BERT` `RoBERTa` `GPT-4` `RAG Systems`
+`Gemini API` `Gemini Live API` `Google ADK` `Multi-agent AI (A2A)` `Vertex AI`
+`RLHF` `PPO-Lagrangian` `Sentiment Analysis` `Topic Modeling` `Named Entity Recognition` `Few-shot Prompting`
 
 **Cloud & Backend**
-`Google Cloud` `Firebase (Auth, Firestore, Storage)` `Vertex AI` `Vercel`
+`Google Cloud` `Firebase (Auth, Firestore, Storage)` `Vertex AI` `FastAPI` `Temporal` `Render` `Vercel`
 
 **Frontend & Mobile**
 `Next.js` `React` `Tailwind CSS` `Framer Motion` `Jetpack Compose` `CameraX` `Android (Kotlin)`
 
 **Data & Visualization**
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Tableau` `Spark` `Hadoop (HDFS)`
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Tableau` `ClickHouse` `Spark` `Hadoop (HDFS)`
 
 **Statistics**
 `Statistical Modeling` `Bayesian Methods` `A/B Testing` `Hypothesis Testing`
