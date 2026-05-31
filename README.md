@@ -54,6 +54,46 @@ Multi-agent AI platform helping tenants document housing violations and auto-gen
 
 `Gemini Live API` `Vertex AI` `Firebase` `Google Cloud` `Kotlin` `Jetpack Compose` `CameraX` `Multi-agent AI` `A2A`
 
+### 🤔 [To Ask or Not to Ask — Strategic Clarification in LLM Agents](https://github.com/Deepali-BK/rl_llm_multiturn_cmdp)
+RL agent trained to decide *when* to ask clarifying questions vs. answer directly — balancing answer quality against over-questioning via a Constrained MDP.
+- Fine-tuned **Qwen2.5-Coder-7B** via **LoRA + PPO-Lagrangian (RLHF)** on the HumanEvalComm benchmark
+- Used a **GPT-4o-mini simulator** to evaluate across clarification budgets; best policy achieves **+6.2pp MT pass@1** over untrained baseline (*p* < 0.0001)
+
+`Reinforcement Learning` `PPO-Lagrangian` `LoRA` `RLHF` `Qwen2.5-Coder-7B` `LangChain` `HumanEvalComm`
+
+
+
+### ☕ [CoffeeAgntcy — Multi-Agent System Optimization](https://github.com/Deepali-BK/Coffee-Agentcy-Optimization)
+Profiled and optimized a distributed multi-agent AI system running across 10 Docker containers with LangGraph A2A architecture.
+- Used **cProfile** to pinpoint OpenAI API I/O as the bottleneck
+- Applied **asyncio + aiohttp** concurrency, **MD5-keyed caching**, and TCP pooling — achieving **17% latency reduction** and **12,000× throughput gain**
+
+`asyncio` `aiohttp` `LangChain` `LangGraph` `GPT-4o` `Docker` `cProfile`
+
+### 🔍 [Muck Rack — HTML Quality Detection Pipeline](https://github.com/Deepali-BK/Article-Ingestion-Pipeline-for-Muck-Rack) *(Capstone)*
+Production-grade ML pipeline combining **BeautifulSoup + XGBoost** with rule-based heuristics for HTML quality detection for PR firm Muck Rack.
+- Achieved **0.98 precision / 0.920 F1** score
+- Built a **GPT-4.1-mini few-shot labeling pipeline** to expand an imbalanced seed dataset
+- Eliminated manual QA bottlenecks entirely
+
+`Python` `XGBoost` `BeautifulSoup` `GPT-4` `Few-shot Learning` `ML Pipelines`
+
+### 🧠 [Emotion Learning Evaluation for LLMs](https://github.com/Deepali-BK/NLU-project)
+Benchmarked emotional intelligence capabilities of **Gemma, Qwen, and Llama** using zero-shot and few-shot prompt engineering.
+- Demonstrated above-chance performance across all three models
+- Leveraged **LangChain** and **HuggingFace** for evaluation orchestration
+
+`LangChain` `HuggingFace` `Prompt Engineering` `Zero-shot` `Few-shot` `LLM Evaluation`
+
+### 🛒 [Auto E-Commerce — Autonomous Trend-to-Storefront Pipeline](https://github.com/Deepali-BK/Auto-Ecommerce) *(Agentic Engineering Hack)*
+Autonomous multi-agent system that detects niche microtrends and launches a full e-commerce store end-to-end — no human required.
+- Built a **CEO Orchestrator Agent** coordinating 5 specialized sub-agents: Research, Buyer, Legal/Risk, Advertising, and Store Creator
+- **Research Agent** scores trend strength via **Nimble API**; **Store Creator** spins up a live storefront at a unique subdomain in minutes
+- Every agent decision stored in **ClickHouse** as long-term memory, feeding back into future agent prompts for improved scoring
+- Full observability via **Datadog** traces; durable agent orchestration via **Temporal** (retry-safe, LLM-flakiness-proof)
+- 🤝 Team project with 3 collaborators
+
+`Google ADK` `Gemini 2.5 Flash` `Temporal` `ClickHouse` `Nimble API` `Datadog` `FastAPI` `Next.js` `Multi-agent AI`
 
 
 ### 🎮 [heart-maxxxxing — Cardiac Rehab Gamification](https://devpost.com/software/heart-maxxxxing) *(Pulse Foundry AI Healthcare Hackathon 2026)*
@@ -65,28 +105,6 @@ Mario-style browser game that turns the standard 36-session cardiac rehabilitati
 - 🤝 Team project with 3 collaborators
 
 `Gemini API` `Next.js` `React` `Tailwind CSS` `Framer Motion` `Vercel` `Healthcare AI`
-
-
-
-
-### 🔍 [Muck Rack — HTML Quality Detection Pipeline](https://github.com/Deepali-BK/Article-Ingestion-Pipeline-for-Muck-Rack) *(Capstone)*
-Production-grade ML pipeline combining **BeautifulSoup + XGBoost** with rule-based heuristics for HTML quality detection for PR firm Muck Rack.
-- Achieved **0.98 precision / 0.920 F1** score
-- Built a **GPT-4.1-mini few-shot labeling pipeline** to expand an imbalanced seed dataset
-- Eliminated manual QA bottlenecks entirely
-
-`Python` `XGBoost` `BeautifulSoup` `GPT-4` `Few-shot Learning` `ML Pipelines`
-
-
-
-
-### 🧠 [Emotion Learning Evaluation for LLMs](https://github.com/Deepali-BK/NLU-project)
-Benchmarked emotional intelligence capabilities of **Gemma, Qwen, and Llama** using zero-shot and few-shot prompt engineering.
-- Demonstrated above-chance performance across all three models
-- Leveraged **LangChain** and **HuggingFace** for evaluation orchestration
-
-`LangChain` `HuggingFace` `Prompt Engineering` `Zero-shot` `Few-shot` `LLM Evaluation`
-
 
 
 ### 🏥 [Interactive Health Bot](https://github.com/Deepali-BK/Voice-Based-Disease-Prediction-using-NLP-Random-Forest-on-Raspberry-Pi)
