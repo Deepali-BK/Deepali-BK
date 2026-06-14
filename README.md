@@ -1,5 +1,5 @@
 # Hi, I'm Deepali 👋
-📍 New York, NY &nbsp;·&nbsp; 📧 db5144@nyu.edu &nbsp;·&nbsp; 💼 [linkedin.com/in/deepali-bk](https://linkedin.com/in/deepali-bk) &nbsp;·&nbsp; 🌐 [Portfolio](https://www.datascienceportfol.io/deepalibalakrishnate)
+📍 New York, NY &nbsp;·&nbsp; 📧 db5144@nyu.edu &nbsp;·&nbsp; 💼 [linkedin.com/in/deepali-bk](https://linkedin.com/in/deepali-bk) &nbsp;·&nbsp; 🌐 [Portfolio](https://deepali-bk.github.io/)
 
 ---
 
