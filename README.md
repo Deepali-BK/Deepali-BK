@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a Data Science grad student at NYU who builds AI systems that actually work — not just on benchmarks, but in the real world. From placing at hackathons with multimodal Gemini agents to shipping production NLP pipelines that process millions of documents, I care about the full journey from idea to deployed system. My work spans NLP, LLMs, healthcare AI, and multi-agent architectures across research, enterprise, and hackathon stages.
+I'm a Data Science grad student at NYU who builds AI systems that actually work in the real world. From placing at hackathons with multimodal Gemini agents to shipping production NLP pipelines that process millions of documents, I care about the full journey from idea to deployed system. My work spans NLP, LLMs, healthcare AI, and multi-agent architectures across research, enterprise, and hackathon stages.
 
 - 🔬 Graduate Research Assistant @ NYU Rory Meyers College of Nursing
 - 🏆 3rd Place — GDG NYC × NYU Tandon "Build With AI" Hackathon 2026 (TenantShield)
